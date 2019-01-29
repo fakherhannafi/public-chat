@@ -1,8 +1,8 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 const NotFound = () => (
 
-    <h2 className='notFound'> Y'a rien ici!</h2>
+    <h2 className='notFound'> 404 Not Found</h2>
 )
 
 export default NotFound;
